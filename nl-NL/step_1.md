@@ -1,4 +1,4 @@
-- Click the Costumes tab, and you’ll see your sprite’s costume.
-- Right-click on the costume and click duplicate to create a copy of the costume
+- Klik op het tabblad Uiterlijken en je ziet het uiterlijk van je sprite.
+- Klik met de rechtermuisknop op het uiterlijk en klik op dupliceren om een ​​kopie van het uiterlijk te maken
 
-![duplicate-costume](images/duplicate-costume.png)
+![uiterlijk-kopie](images/duplicate-costume.png)
