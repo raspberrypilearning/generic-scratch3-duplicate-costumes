@@ -1,4 +1,4 @@
-- Click the Costumes tab, and you’ll see your sprite’s costume.
-- Right-click on the costume and click duplicate to create a copy of the costume
+- أنقر فوق علامة التبويب المظاهر وسوف ترى مظاهر الكائن.
+- انقر على زر الماوس الأيمن على المظهر ثم انقر فوق مضاعفة لإنشاء نسخة من المظهر
 
-![duplicate-costume](images/duplicate-costume.png)
+![مضاعفة الكائن](images/duplicate-costume.png)
