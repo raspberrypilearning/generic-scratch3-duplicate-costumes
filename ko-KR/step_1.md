@@ -1,4 +1,4 @@
-- Click the Costumes tab, and you’ll see your sprite’s costume.
-- Right-click on the costume and click duplicate to create a copy of the costume
+- 의상 탭을 클릭하면 스프라이트 의상이 표시됩니다.
+- 마우스 오른쪽 버튼으로 모양을 클릭하고 복사를 클릭하여 모양의 사본을 만듭니다
 
-![duplicate-costume](images/duplicate-costume.png)
+![의상-복제](images/duplicate-costume.png)
