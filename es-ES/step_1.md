@@ -1,4 +1,4 @@
-- Click the Costumes tab, and you’ll see your sprite’s costume.
-- Right-click on the costume and click duplicate to create a copy of the costume
+- Haz clic en la pestaña Disfraces y verás el disfraz de tu objeto.
+- Haz clic con el botón derecho del ratón sobre el disfraz y luego haz clic en duplicar para crear una copia
 
-![duplicate-costume](images/duplicate-costume.png)
+![duplicar-disfraz](images/duplicate-costume.png)
