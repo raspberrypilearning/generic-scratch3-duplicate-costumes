@@ -1,4 +1,4 @@
-- Click the Costumes tab, and you’ll see your sprite’s costume.
-- Right-click on the costume and click duplicate to create a copy of the costume
+- Clique na aba Fantasias e você verá a fantasia do seu ator.
+- Clique com o botão direito na fantasia e clique em Duplicar para criar uma cópia da fantasia
 
-![duplicate-costume](images/duplicate-costume.png)
+![duplicar-fantasia](images/duplicate-costume.png)
