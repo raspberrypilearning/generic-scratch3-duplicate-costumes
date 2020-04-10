@@ -1,4 +1,4 @@
-- Click the Costumes tab, and you’ll see your sprite’s costume.
-- Right-click on the costume and click duplicate to create a copy of the costume
+- Kliknij zakładkę Kostiumy, a zobaczysz kostium duszka.
+- Kliknij prawym przyciskiem myszy na kostiumie, a następnie kliknij duplikuj, aby stworzyć kopię kostiumu
 
-![duplicate-costume](images/duplicate-costume.png)
+![duplikat kostiumu](images/duplicate-costume.png)
