@@ -1,4 +1,4 @@
-- Click the Costumes tab, and you’ll see your sprite’s costume.
-- Right-click on the costume and click duplicate to create a copy of the costume
+- Klicke auf den Kostüme-Reiter und du wirst die Kostüme deiner Figur sehen.
+- Klicke mit der rechten Maustaste auf das Kostüm und klicke auf Duplizieren um eine Kopie des Kostüms zu erstellen
 
-![duplicate-costume](images/duplicate-costume.png)
+![Kostüm duplizieren](images/duplicate-costume.png)
