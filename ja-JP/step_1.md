@@ -1,4 +1,4 @@
-- Click the Costumes tab, and you’ll see your sprite’s costume.
-- Right-click on the costume and click duplicate to create a copy of the costume
+- コスチュームタブをクリックすると、スプライトのコスチュームが表示 (ひょうじ) されます。
+- コスチュームを右クリックして、複製をクリックするとコスチュームのコピーが作られます。
 
-![duplicate-costume](images/duplicate-costume.png)
+![コスチューム複製](images/duplicate-costume.png)
